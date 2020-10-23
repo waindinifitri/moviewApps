@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "123qwertyA",
+    "database": "mini_project",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "123qwertyA",
+    "database": "mini_project",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "unxdemipykswdo",
+    "password": "b95143ddec12b8bb8d8798550e03e20cc757230a58e3239f93db5aef540a426a",
+    "database": "df81hs1uqhiq91",
+    "host": "ec2-52-21-247-176.compute-1.amazonaws.com",
+    "dialect": "postgres"
+  }
+}

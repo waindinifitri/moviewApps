@@ -1,0 +1,362 @@
+[
+
+    {
+        "title": "Artemis Fowl",
+        "picture": "https://upload.wikimedia.org/wikipedia/en/f/f4/Artemis_Fowl_poster.jpg",
+        "trailer": "https://www.youtube.com/watch?v=fl2r3Fwxz_o",
+        "year": 2020,
+        "synopsis": "Artemis Fowl is a 12-year-old genius and descendant of a long line of criminal masterminds. He soon finds himself in an epic battle against a race of powerful underground fairies who may be behind his father's disappearance.", 
+        "character": "Holly Short",
+        "genreId": 2
+    },
+
+    {
+        "title": "We Bare Bears: The Movie",
+        "picture": "https://upload.wikimedia.org/wikipedia/id/5/5b/We_Bare_Bears-_The_Movie_poster.jpg",
+        "trailer": "https://www.youtube.com/watch?v=kqb1197B8G4",
+        "year": 2020,
+        "synopsis": "When Grizz, Panda, and Ice Bear's love of food trucks and viral videos went out of hand, it catches the attention of Agent Trout from the National Wildlife Control, who pledges to restore the “natural order” by separating them forever. Chased away from their home, the Bears embark on an epic road trip as they seek refuge in Canada, with their journey being filled with new friends, perilous obstacles, and huge parties. The risky journey also forces the Bears to face how they first met and became brothers, in order to keep their family bond from splitting apart.", 
+        "character": "Eric Edelstein",
+        "genreId": 6
+    },
+
+    {
+        "title": "Birds of Prey",
+        "picture": "https://upload.wikimedia.org/wikipedia/en/6/60/Birds_of_Prey_%28and_the_Fantabulous_Emancipation_of_one_Harley_Quinn%29.jpg",
+        "trailer": "https://www.youtube.com/watch?v=kGM4uYZzfu0",
+        "year": 2020,
+        "synopsis": "After splitting with the Joker, Harley Quinn joins superheroes Black Canary, Huntress and Renee Montoya to save a young girl from an evil crime lord.", 
+        "character": "Harleen Quinzel",
+        "genreId": 1
+    },
+
+    {
+        "title": "The Owners",
+        "picture": "https://miro.medium.com/max/600/1*5ZTQRGv0QuJ3c806Ls2bUQ.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=yMvJSivVNrs",
+        "year": 2020,
+        "synopsis": "A group of friends think they found the perfect easy score - an empty house with a safe full of cash. But when the elderly couple that lives there comes home early, the tables are suddenly turned. As a deadly game of cat and mouse ensues, the would-be thieves must fight to save themselves from a nightmare they could never have imagined.", 
+        "character": "Maisie Williams",
+        "genreId": 1
+    },
+
+    {
+        "title": "The Crimes That Bind",
+        "picture": "https://upload.wikimedia.org/wikipedia/en/0/00/The_Crimes_That_Bind_%282020_film%29.jpg",
+        "trailer": "https://www.youtube.com/watch?v=lwaMzG1_L4Y",
+        "year": 2018,
+        "synopsis": "When her son is accused of raping and trying to murder his ex-wife, Alicia embarks on a journey that will change her life forever.", 
+        "character": "Kyoichiro Kaga",
+        "genreId": 8
+    },
+
+    {
+        "title": "Bad Boys for Life",
+        "picture": "https://upload.wikimedia.org/wikipedia/en/9/90/Bad_Boys_for_Life_poster.jpg",
+        "trailer": "https://www.youtube.com/watch?v=jKCj3XuPG8M",
+        "year": 2020,
+        "synopsis": "Marcus and Mike are forced to confront new threats, career changes, and midlife crises as they join the newly created elite team AMMO of the Miami police department to take down the ruthless Armando Armas, the vicious leader of a Miami drug cartel.", 
+        "character": "Will Smith",
+        "genreId": 6
+    },
+
+    {
+        "title": "The Tax Collector",
+        "picture": "https://www.latinheat.com/wp-content/uploads/2020/07/TAXCOLLECTOR_800x470-800x445.jpg",
+        "trailer": "https://www.youtube.com/watch?v=F8s4PZ0JENc",
+        "year": 2020,
+        "synopsis": "David Cuevas is a family man who works as a gangland tax collector for high ranking Los Angeles gang members. He makes collections across the city with his partner Creeper making sure people pay up or will see retaliation. An old threat returns to Los Angeles that puts everything David loves in harm’s way.", 
+        "character": "David Ayer",
+        "genreId": 9
+    },
+
+    {
+        "title": "Infamous",
+        "picture": "https://upload.wikimedia.org/wikipedia/en/6/64/Infamous_2020_poster.jpg",
+        "trailer": "https://www.youtube.com/watch?v=wJtnDjWiQFg",
+        "year": 2020,
+        "synopsis": "Two young lovers rob their way across the southland, posting their exploits to social media, and gaining fame and followers as a result.", 
+        "character": "Cole MacGrarh",
+        "genreId": 3
+    },
+
+    {
+        "title":"Sonic the Hedgehog",
+        "picture" : "https://upload.wikimedia.org/wikipedia/id/c/c1/Sonic_the_Hedgehog_poster.jpg",
+        "trailer" : "https://www.youtube.com/watch?v=szby7ZHLnkA",
+        "year": 2020,
+        "synopsis":"Based on the global blockbuster videogame franchise from Sega, Sonic the Hedgehog tells the story of the world’s speediest hedgehog as he embraces his new home on Earth. In this live-action adventure comedy, Sonic and his new best friend team up to defend the planet from the evil genius Dr. Robotnik and his plans for world domination.",
+        "character": "Sonic the Hedgehod", 
+        "genreId" : 3
+    },
+
+    {
+        "title":"Onward",
+        "picture" : "https://lumiere-a.akamaihd.net/v1/images/p_onward_19024_dbb512d5.jpeg?region=0,0,540,810",
+        "trailer" : "https://www.youtube.com/watch?v=gn5QmllRCn4",
+        "year": 2020,
+        "synopsis": "In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.",
+        "character": "Ian Lightfoot",
+        "genreId": 6    
+    },
+
+    {
+        "title":"Bloodshot",
+        "picture" : "https://www.covercity.net/displaycover/medium/1759659ab0a8c66ab288734707a2ea85",
+        "trailer" : "https://www.youtube.com/watch?v=fPnRvqi3F0U",
+        "year": 2020,
+        "synopsis": "After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine—'Bloodshot'. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there's more to the conspiracy than he thought.",
+        "character": "Ray Garrison/Bloodshot",
+        "genreId" : 5
+    },
+
+    {
+        "title":"Terrifier",
+        "picture" : "https://3.bp.blogspot.com/-XZFB1-RGg5c/XJ6B83S-nDI/AAAAAAAAMZk/qLuJPLM5ITwNPS-G9P1_XdyirZufZPq6gCLcBGAs/s1600/terrifier-vhs-standard-edition-150-brokehorrorfan.com.jpg",
+        "trailer" : "https://www.youtube.com/watch?v=lJ8cv-Rfrcw",
+        "year": 2016,
+        "synopsis": "A maniacal clown named Art terrorizes three young women and everyone else who stands in his way on Halloween night.",
+        "character": "Tara Heyes",
+        "genreId" : 4
+    },
+
+    {
+        "title": "Jumanji: The Next Level",
+        "picture" : "https://www.mainmain.id/uploads/post/2019/12/08/jumanji_mainmain.jpeg",
+        "trailer" : "https://www.youtube.com/watch?v=rBxcF-r9Ibs",
+        "year": 2019,
+        "synopsis":"As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the world’s most dangerous game.",
+        "character": "Dr. Xander (Smolder Bravestone)",
+        "genreId" : 1
+    },
+
+    {
+        "title":"Fast & Furious Presents: Hobbs & Shaw",
+        "picture" : "https://yesonline.id/wp-content/uploads/2019/08/hobbs-shaw-696x463.jpg",
+        "trailer" : "https://www.youtube.com/watch?v=HZ7PAyCDwEg",
+        "year": 2019,
+        "synopsis": "Ever since US Diplomatic Security Service Agent Hobbs and lawless outcast Shaw first faced off, they just have swapped smacks and bad words. But when cyber-genetically enhanced anarchist Brixton's ruthless actions threaten the future of humanity, both join forces to defeat him. (A spin-off of “The Fate of the Furious,” focusing on Johnson's Luke Hobbs and Statham's Deckard Shaw.)",
+        "character": "Deckard Shaw",
+        "genreId" : 1
+    },
+
+    {
+        "title": "Frozen 2",
+        "picture": "https://en.wikipedia.org/wiki/File:Frozen_2_poster.jpg",
+        "trailer": "https://www.youtube.com/watch?v=Zi4LMpSDccc",
+        "year": 2019,
+        "synopsis": "Anna, Elsa, Kristoff, Olaf and Sven leave Arendelle to travel to an ancient, autumn-bound forest of an enchanted land. They set out to find the origin of Elsa's powers in order to save their kingdom.",
+        "character": "Princess of Arendelle",
+        "genreId": 6
+    },
+
+    {
+        "title": "Toy Story 4",
+        "picture": "https://en.wikipedia.org/wiki/File:Toy_Story_4_poster.jpg",
+        "trailer": "https://www.youtube.com/watch?v=wmiIUN-7qhE",
+        "year": 2019,
+        "synopsis": "When a new toy called \"Forky\" joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy.",
+        "character": "Sherrif Woody",
+        "genreId": 6
+    },
+
+    {
+        "title": "The Lion King",
+        "picture": "https://en.wikipedia.org/wiki/File:Disney_The_Lion_King_2019.jpg",
+        "trailer": "https://www.youtube.com/watch?v=7TavVZMewpY",
+        "year": 2019,
+        "synopsis": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
+        "character": "Donald Glover",
+        "genreId": 6
+    },
+
+    {
+        "title": "Gretel & Hansel",
+        "picture": "https://en.wikipedia.org/wiki/File:Gretel_%26_Hansel_-_A_Grim_Fairy_Tale_theatrical_poster.jpeg",
+        "trailer": "https://www.youtube.com/watch?v=QZblQLhKcZQ",
+        "year": 2020,
+        "synopsis": "A long time ago in a distant fairy tale countryside, a young girl leads her little brother into a dark wood in desperate search of food and work, only to stumble upon a nexus of terrifying evil.",
+        "character": "Gretel and Hansel",
+        "genreId": 10
+    },
+
+    {
+        "title": "The Invisible Man",
+        "picture": "https://en.wikipedia.org/wiki/File:The_Invisible_Man_(2020_film)_-_release_poster.jpg",
+        "trailer": "https://www.youtube.com/watch?v=Pso0Aj_cTh0",
+        "year": 2019,
+        "synopsis": "When Cecilia's abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.",
+        "character": "Cecilia Kass", 
+        "genreId": 10
+    },
+
+    {
+        "title": "Midsommar",
+        "picture": "https://en.wikipedia.org/wiki/File:Midsommar_(2019_film_poster).png",
+        "trailer": "https://www.youtube.com/watch?v=1Vnghdsjmd0",
+        "year": 2019,
+        "synopsis": "A couple travels to Sweden to visit a rural hometown's fabled mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult.",
+        "character": "Dani Ardor",
+        "genreId": 10
+    },
+
+    {
+        "title": "IT",
+        "picture": "https://en.wikipedia.org/wiki/File:It_(2017)_poster.jpg",
+        "trailer": "https://www.youtube.com/watch?v=hAUTdjf9rko",
+        "year": 2017,
+        "synopsis": "In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.",
+        "character": "Derry",
+        "genreId": 10
+    },
+
+    {
+        "title": "Joker",
+        "picture": "https://en.wikipedia.org/wiki/File:Joker_(2019_film)_poster.jpg",
+        "trailer": "https://www.youtube.com/watch?v=zAGVQLHvwOY",
+        "year": 2019,
+        "synopsis": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
+        "character": "Arthur Fleck",
+        "genreId": 5
+    },
+
+    {
+        "title": "Parasite",
+        "picture": "https://en.wikipedia.org/wiki/File:Parasite_(2019_film).png",
+        "trailer": "https://www.youtube.com/watch?v=5xH0HfJHsaY",
+        "year": 2019,
+        "synopsis": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+        "character": "Kim Clan",
+        "genreId": 5
+    },
+
+    {
+        "title": "Once Upon a Time In Hollywood",
+        "picture": "https://en.wikipedia.org/wiki/File:Once_Upon_a_Time_in_Hollywood_poster.png",
+        "trailer": "https://www.youtube.com/watch?v=ELeMaP8EPAA",
+        "year": 2019,
+        "synopsis": "A faded television actor and his stunt double strive to achieve fame and success in the final years of Hollywood's Golden Age in 1969 Los Angeles.",
+        "character": "Rick Dalton",
+        "genreId" : 5
+    },
+
+    {
+        "title": "Guardians of the Galaxy",
+        "picture": "https://en.wikipedia.org/wiki/File:Guardians_of_the_Galaxy_poster.jpg",
+        "trailer": "https://www.youtube.com/watch?v=d96cjJhvlMA",
+        "year": 2014,
+        "synopsis": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.",
+        "character": "Peter Quill/Star-Lord",
+        "genreId": 5
+    },
+
+    {
+        "title": "365 Days",
+        "picture": "https://upload.wikimedia.org/wikipedia/en/3/32/365_Dni_film_poster.png",
+        "trailer": "https://youtu.be/7OE6Fcr0XcY",
+        "year" : 2020,
+        "synopsis": "Massimo is a member of the Sicilian Mafia family and Laura is a sales director. She does not expect that on a trip to Sicily trying to save her relationship, Massimo will kidnap her and give her 365 days to fall in love with him.",
+        "character": "Massimo",
+        "genreId": 3
+    },
+
+    {
+        "title": "Mulan",
+        "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Mulan_%282020_film%29_poster.jpg/220px-Mulan_%282020_film%29_poster.jpg",
+        "trailer": "https://youtu.be/KK8FHdFluOQ",
+        "year": 2020,
+        "synopsis": "The grave course of events set in motion by Thanos that wiped out half the universe and fractured the Avengers ranks compels the remaining Avengers to take one final stand in Marvel Studios’ grand conclusion to twenty-two films, “Avengers: Endgame.",
+        "character": "Thanos",
+        "genreId": 2
+    },
+
+    {
+        "title": "Deadpool",
+        "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Deadpool_%282016_poster%29.png/220px-Deadpool_%282016_poster%29.png",
+        "trailer": "https://youtu.be/ONHBaC-pfsk",
+        "year": 2016,
+        "synopsis": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+        "character": "Wade Wilson/Deadpool",
+        "genreId": 1 
+    },
+
+    {
+        "title": "Deadpool 2",
+        "picture": "https://upload.wikimedia.org/wikipedia/en/c/cf/Deadpool_2_poster.jpg",
+        "trailer": "https://youtu.be/D86RtevtfrA",
+        "year": 2018,
+        "synopsis": "After surviving a near fatal bovine attack, a disfigured cafeteria chef struggles to fulfill his dream of becoming Mayberry’s hottest bartender while also learning to cope with his lost sense of taste. Searching to regain his spice for life, as well as a flux capacitor, Wade must battle ninjas, the yakuza, and a pack of sexually aggressive canines, as he journeys around the world to discover the importance of family, friendship, and flavor—finding a new taste for adventure and earning the coveted coffee mug title of World’s Best Lover.",
+        "character": "Wade Wilson/Deadpool",
+        "genreId": 1
+    }, 
+    
+    {
+        "title": "The Matrix Reloaded",
+        "picture": "https://upload.wikimedia.org/wikipedia/en/b/ba/Poster_-_The_Matrix_Reloaded.jpg",
+        "trailer": "https://youtu.be/hMbexEPAOQI",
+        "year": 2003,
+        "synopsis": "Neo (Keanu Reeves) believes that Morpheus (Laurence Fishburne), an elusive figure considered to be the most dangerous man alive, can answer his question -- What is the Matrix? Neo is contacted by Trinity (Carrie-Anne Moss), a beautiful stranger who leads him into an underworld where he meets Morpheus. They fight a brutal battle for their lives against a cadre of viciously intelligent secret agents. It is a truth that could cost Neo something more precious than his life.",
+        "character": "Neo",
+        "genreId": 1
+    },
+
+    {
+        "title": "Logan",
+        "picture": "https://upload.wikimedia.org/wikipedia/en/3/37/Logan_2017_poster.jpg",
+        "trailer": "https://youtu.be/gbug3zTm3Ws",
+        "year": 2017,
+        "synopsis": "In the near future, a weary Logan cares for an ailing Professor X in a hide out on the Mexican border. But Logan’s attempts to hide from the world and his legacy are up-ended when a young mutant arrives, being pursued by dark forces.",
+        "character": "Logan",
+        "genreId": 1
+    },
+
+    {
+        "title": "Fifty Shades of Grey",
+        "picture": "https://upload.wikimedia.org/wikipedia/en/7/73/Fifty_Shades_of_Grey_poster.jpg",
+        "trailer": "https://youtu.be/SfZWFDs0LxA",
+        "year": 2015,
+        "synopsis": "When college senior Anastasia Steele (Dakota Johnson) steps in for her sick roommate to interview prominent businessman Christian Grey (Jamie Dornan) for their campus paper, little does she realize the path her life will take. Christian, as enigmatic as he is rich and powerful, finds himself strangely drawn to Ana, and she to him. Though sexually inexperienced, Ana plunges headlong into an affair -- and learns that Christian's true sexual proclivities push the boundaries of pain and pleasure.",
+        "character": "Dakota Johnson",
+        "genreId": 1
+    },
+
+    {
+        "title": "Ted",
+        "picture": "https://en.wikipedia.org/wiki/File:Ted_poster.jpg",
+        "trailer": "https://youtu.be/9fbo_pQvU7M",
+        "year": 2012,
+        "synopsis": "TED tells the story of John Bennett, a grown man who must deal with the cherished teddy bear who came to life as the result of a childhood wish...and has refused to leave his side ever since",
+        "character": "Seth MacFarlane",
+        "genreId": 1
+    },
+
+    {
+        "title": "Star Wars: The Rise of Skywalker",
+        "picture": "https://upload.wikimedia.org/wikipedia/en/a/af/Star_Wars_The_Rise_of_Skywalker_poster.jpg",
+        "trailer": "https://youtu.be/8Qn_spdM5Zg",
+        "year": 2019,
+        "synopsis": "No one’s ever really gone… Rey’s journey continues and the Skywalker saga concludes.",
+        "character": "J. J. Abrams",
+        "genreId": 1
+    },
+
+    {
+        "title": "How to Train Your Dragon: The Hidden World",
+        "picture": "https://upload.wikimedia.org/wikipedia/en/f/fd/How_to_Train_Your_Dragon_3_poster.png",
+        "trailer": "https://youtu.be/SkcucKDrbOI",
+        "year": 2019,
+        "synopsis": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
+        "character": "Dean DeBlois",
+        "genreId": 10
+    },
+
+    {
+        "title": "Maleficent: Mistress of Evil",
+        "pictureg": "https://upload.wikimedia.org/wikipedia/en/7/7b/Maleficent_Mistress_of_Evil_%28Official_Film_Poster%29.png",
+        "trailer": "https://youtu.be/n0OFH4xpPr4",
+        "year": 2019,
+        "synopsis": "The film continues to explore the complex relationship between the horned fairy and the soon to be Queen as they form new alliances and face new adversaries in their struggle to protect the moors and the magical creatures that reside within.",
+        "character": "Maleficent",
+        "genreId": 2
+    }
+]
